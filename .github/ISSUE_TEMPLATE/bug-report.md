@@ -9,13 +9,14 @@ type: Bug
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+*A clear and concise description of what the bug is.*
+
+
 
 **To Reproduce**
-Describe the steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+*Describe the steps to reproduce the behavior:*
+
+
 
 **Screenshots and other info**
-If applicable, add screenshots to help explain your problem.
+*If applicable, add screenshots to help explain your problem, the version of ZenFlow you're using, and (if you want - we care about your privacy) your PC specs and OS.*
