@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Report a bug or a problem
-title: "[Bug Report]:"
+title: "[Bug Report]: "
 labels: Bug
-assignees: ''
+assignees: BrunazzoDev
 type: Bug
 
 ---
