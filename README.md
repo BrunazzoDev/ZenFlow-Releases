@@ -9,5 +9,7 @@ so.. yeah have fun. You can literally download every version of our software fro
 BUT ALSO!!!
 **You can now report bugs or request any brand new feature just by opening an issue here!!**
 
+You can find our timeline and updated roadmap [here](https://canva.link/q70kcngo5ndoc0f)!
+
 with <3,
 Bruno.
